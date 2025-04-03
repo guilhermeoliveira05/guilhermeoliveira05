@@ -1,10 +1,10 @@
 ## Hey, I'm Guilherme Oliveira, a dev who is passionate about technology!
 
+<p>🎓 Engenharia da Computação course by <a href="https://www.unisal.com/">UNISAL</a></p>
 <p>👨‍💻 ADS course by <a href="https://www.sp.senai.br/">Senai</a></p>
-<p>🎓 When I go to college, I plan to study computer science.</p>
-<p>🐱‍👤 I am currently 17 years old</p>
+<p>🐱‍👤 I am currently 18 years old</p>
 <p>🔠 <a href="https://azure.microsoft.com/pt-br/">Microsoft azure course</a></p>
-<p>📚 Studying Java and database</p>
+<p>📚 Studying TI</p>
 
 
 
