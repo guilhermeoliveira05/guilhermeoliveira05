@@ -1,29 +1,45 @@
-## Hey, I'm Guilherme Oliveira, a dev who is passionate about technology!
+## Hey there! I'm Guilherme Oliveira 👋
 
-<p>🎓 Engenharia da Computação course by <a href="https://www.unisal.com/">UNISAL</a></p>
-<p>👨‍💻 ADS course by <a href="https://www.sp.senai.br/">Senai</a></p>
-<p>🐱‍👤 I am currently 18 years old</p>
-<p>🔠 <a href="https://azure.microsoft.com/pt-br/">Microsoft azure course</a></p>
-<p>📚 Studying TI</p>
+### 🚀 About Me
 
+- 🏢 **IT Infrastructure Intern | AI Team | Power BI** @ [Liebherr](https://www.liebherr.com/)
+- 🎓 **ADS** @ [Senai](https://www.sp.senai.br/)
+- 🎓 **Engenharia da Computação** @ [UNISAL](https://www.unisal.com/)
+- ☁️ **Microsoft Azure** certified @ [Microsoft](https://azure.microsoft.com/pt-br/)
+- 🐱‍👤 19 years old | Passionate about Technology, AI & Data
 
+---
 
+### 🛠️ Tech Stack
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
-  
-  ##
- 
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/seu-usuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 🤝 Connect with me
+
 <div> 
-  <a href="https://www.youtube.com/channel/UC6MH86pQ5HNhsCVD2uBW79A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilhermeeez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "novaconta2018brs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-oliveira-8087a7273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.youtube.com/channel/UC6MH86pQ5HNhsCVD2uBW79A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/guilhermeeez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:novaconta2018brs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-oliveira-8087a7273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
